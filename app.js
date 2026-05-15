@@ -72,6 +72,7 @@ function showCard() {
   `;
 
   document.getElementById("explain").innerHTML = "";
+  updateProgress(); // <--- AÑADE ESTA LÍNEA
 }
 
 // ==========================
@@ -135,4 +136,17 @@ function nextCard() {
   }
 
   showCard();
+}
+
+function updateProgress() {
+  const total = modules[currentModule].length;
+  const current = currentIndex + 1;
+
+  // Texto
+  document.getElementById("progress-text").innerText =
+    `Pregunta ${current} de ${total}`;
+
+  // Barra
+  const percent = (current / total) * 100;
+  document.getElementById("progress-bar-fill").style.width = percent + "%";
 }
