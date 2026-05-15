@@ -1,0 +1,106 @@
+[
+  {
+    "name": "accesoDatos1",
+    "file": "modules/accesoDatos1.xlsx"
+  },
+  {
+    "name": "accesoDatos2",
+    "file": "modules/accesoDatos2.xlsx"
+  },
+  {
+    "name": "accesoDatos3",
+    "file": "modules/accesoDatos3.xlsx"
+  },
+  {
+    "name": "accesoDatos4",
+    "file": "modules/accesoDatos4.xlsx"
+  },
+  {
+    "name": "accesoDatos5",
+    "file": "modules/accesoDatos5.xlsx"
+  },
+  {
+    "name": "desarrolloInterfaces",
+    "file": "modules/desarrolloInterfaces.xlsx"
+  },
+   {
+    "name": "digitalizacionAplicada",
+    "file": "modules/digitalizacionAplicada.xlsx"
+  },
+   {
+    "name": "gestionempresarial",
+    "file": "modules/gestionempresarial.xlsx"
+  },
+   {
+    "name": "ingles1",
+    "file": "modules/ingles.xlsx"
+  },
+  {
+    "name": "ingles1",
+    "file": "modules/ingles.xlsx"
+  },
+  {
+    "name": "ingles4",
+    "file": "modules/ingles4.xlsx"
+  },
+  {
+    "name": "ingles2",
+    "file": "modules/ingles2.xlsx"
+  },
+  {
+    "name": "ingles3",
+    "file": "modules/ingles3.xlsx"
+  },
+   {
+    "name": "ingles5",
+    "file": "modules/ingles5.xlsx"
+  },
+  {
+    "name": "itinerarioempleabilidad1",
+    "file": "modules/itinerarioempleabilidad1.xlsx"
+  },
+  {
+   "name": "itinerarioempleabilidad2",
+    "file": "modules/itinerarioempleabilidad2.xlsx"
+  },
+  {
+   "name": "itinerarioempleabilidad3",
+    "file": "modules/itinerarioempleabilidad3.xlsx"
+  },
+  {
+   "name": "mpo",
+    "file": "modules/mpo.xlsx"
+  },
+  {
+   "name": "programaciondispositivosmoviles1",
+    "file": "modules/programaciondispositivosmoviles1.xlsx"
+  },
+  {
+    "name": "programaciondispositivosmoviles2",
+    "file": "modules/programaciondispositivosmoviles2.xlsx"
+  },
+  {
+    "name": "programaciondispositivosmoviles3",
+    "file": "modules/programaciondispositivosmoviles3.xlsx"
+  },
+  {
+    "name": "programaciondispositivosmoviles4",
+    "file": "modules/programaciondispositivosmoviles4.xlsx"
+  },
+  {
+    "name": "programaciondispositivosmoviles5",
+    "file": "modules/programaciondispositivosmoviles5.xlsx"
+  },
+  {
+   "name": "serviciosyprocesos",
+    "file": "modules/serviciosprocesos.xlsx"
+  },
+  {
+    "name": "sostenibilidad1",
+    "file": "modules/sostenibilidad1.xlsx"
+  },
+  {
+    "name": "sostenibilidad2",
+    "file": "modules/sostenibilidad2.xlsx"
+  }
+]

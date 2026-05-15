@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  text-align: center;
+  padding: 20px;
+}
+
+#modules button {
+  margin: 5px;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: none;
+  background: #1976D2;
+  color: white;
+  cursor: pointer;
+}
+
+#modules button:hover {
+  background: #0D47A1;
+}
+
+#card {
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+#card:hover {
+  transform: scale(1.02);
+}
+
+#question {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.answer-btn {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  background: #e8e8e8;
+  transition: background 0.2s ease;
+}
+
+.answer-btn:hover {
+  background: #d0d0d0;
+}
+
+.correct {
+  background: #4CAF50 !important;
+  color: white;
+}
+
+.incorrect {
+  background: #E53935 !important;
+  color: white;
+}
+
+#explain {
+  margin-top: 20px;
+  padding: 15px;
+  background: #f7f7f7;
+  border-radius: 10px;
+  font-size: 16px;
+  text-align: left;
+}
+
+#nextBtn {
+  margin-top: 20px;
+  padding: 12px 20px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+  background: #43A047;
+  color: white;
+  cursor: pointer;
+}
+
+#nextBtn:hover {
+  background: #2E7D32;
+}

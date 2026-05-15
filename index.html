@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Flashcards App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>📚 Flashcards</h1>
+
+  <h3>Módulos</h3>
+  <div id="modules"></div>
+
+  <hr>
+
+  <div id="card">
+    <h2 id="question">Cargando módulos...</h2>
+
+    <!-- OPCIONES -->
+    <div id="answer"></div>
+
+    <!-- RESULTADO / EXPLICACIÓN -->
+    <div id="explain"></div>
+  </div>
+
+  <button onclick="nextCard()" id="nextBtn">Siguiente</button>
+
+  <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+  <script src="app.js"></script>
+
+</body>
+</html>
