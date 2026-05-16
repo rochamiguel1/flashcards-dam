@@ -71,6 +71,10 @@
    "name": "mpo",
     "file": "modules/mpo.xlsx"
   },
+   {
+   "name": "mpo1",
+    "file": "modules/mpo1.xlsx"
+  },
   {
    "name": "programaciondispositivosmoviles1",
     "file": "modules/programaciondispositivosmoviles1.xlsx"
